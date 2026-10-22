@@ -1,0 +1,586 @@
+[
+ {
+  "hash": "f5932d59ced0c0a035b5de18a56c7fffb80f546c",
+  "text": "How this case works"
+ },
+ {
+  "hash": "88a269fc386be5245ceae71fcc6e6109601d1e5e",
+  "text": "This is a market entry case with a twist: the client has already decided it wants in, and the real question is which of two options to build. You size the demand, compare the profit of each option, and recommend one."
+ },
+ {
+  "hash": "6aa9d60575eb288d4e0b6270feb3dfeae0af8127",
+  "text": "It comes from a public mock interview video run by a PwC associate. The numbers, clarifying answers, and final recommendation follow the video. This page adds a risk test the video skipped, plus calculators, drills, and a practice test."
+ },
+ {
+  "hash": "fc2ab0ee322eeed0ebfa4cfa1ae9544afcc5d98b",
+  "text": "The math you'll use"
+ },
+ {
+  "hash": "0081aab47038753b9b2882a346e8be5591dc7aa8",
+  "text": "HOTEL PROFIT IN ONE LINE"
+ },
+ {
+  "hash": "6c0b0f83a7ffa4fd721497fe68f63971ad7e9d63",
+  "text": "Profit per occupied room-night = nightly rate \u2212 variable cost per night."
+ },
+ {
+  "hash": "d4fd9c68d67a14f3af2027d911f2cc3da2b6611a",
+  "text": "Yearly profit = that \u00d7 number of rooms \u00d7 nights occupied \u2212 fixed costs."
+ },
+ {
+  "hash": "16cb115f2974ec97137b556b3144be21fd89897c",
+  "text": "Break-even nights = fixed costs \u00f7 (profit per room-night \u00d7 rooms)."
+ },
+ {
+  "hash": "b83b079bdf7ac3104cc51c44ef7cd8ea0820d00e",
+  "text": "What this page adds"
+ },
+ {
+  "hash": "fc1bdda7eeb800863c08c5d1ecfdee5c5b0ed372",
+  "text": "ON TOP OF THE VIDEO"
+ },
+ {
+  "hash": "77436f7a3448393a54a7f07803140158f18facb8",
+  "text": "A break-even test of which option is riskier."
+ },
+ {
+  "hash": "fa18222df6d895811217612f88e47edf25d00de4",
+  "text": "A profit calculator for both options."
+ },
+ {
+  "hash": "faa9856c4483aec0155f2b5469ee798dec5fb33c",
+  "text": "A risk heat map to score yourself."
+ },
+ {
+  "hash": "b64517d284b5d181dbd8b685e9ec6ca3916168e0",
+  "text": "Drills on hotel math, and a 12-question test."
+ },
+ {
+  "hash": "3449bc4a71e0870e30f9e1582b1c07cbb41d06ae",
+  "text": "THE SHAPE OF THIS CASE"
+ },
+ {
+  "hash": "9dfe47c78cde982714219b94d79d28aa882ebcfe",
+  "text": "Structure What decides it?"
+ },
+ {
+  "hash": "ae5136fe9efed328897d6959f0ded5ab18c90ad1",
+  "text": "Size How many luxury guests?"
+ },
+ {
+  "hash": "9e4c0a513ec01738ab05146c616beaa4954ab8c3",
+  "text": "Compare Profit and risk of each option"
+ },
+ {
+  "hash": "e5fd23e52eb2843b56b2fff046e9fc98511b7084",
+  "text": "Recommend Which one, and why"
+ },
+ {
+  "hash": "3756070fbefdccdfdd2bade9d0ace26bae59bf8a",
+  "text": "The math is simple. The interviewer is grading structure and clean steps."
+ },
+ {
+  "hash": "180328a92268887db4921adaac86d08af33c5103",
+  "text": "TEN TERMS TO DROP NATURALLY"
+ },
+ {
+  "hash": "b1977b39ac51147105c9c21d0f97a25377eb68e3",
+  "text": "A company moving into a new place or business. The core questions: is there enough demand, can we make money, and does it fit our strategy?"
+ },
+ {
+  "hash": "40d87659cbc5d241734b04a53d0365087a0fb32b",
+  "text": "The average price paid per occupied room per night. Here, 400 dollars for a luxury-only room."
+ },
+ {
+  "hash": "720699226be82abbd7385d4a375f583bac019d85",
+  "text": "The share of nights a room is filled. 250 nights out of 365 is about 68 percent."
+ },
+ {
+  "hash": "fafe44bd4406852fa6249156e796350504e77d33",
+  "text": "One room, filled for one night. A 300-room hotel open 365 nights has about 110 thousand room-nights to sell."
+ },
+ {
+  "hash": "e951e298467c236dc5d35405a81f88f3180c4633",
+  "text": "Revenue per available room: rate times occupancy. It shows how well a hotel turns rooms into money."
+ },
+ {
+  "hash": "1abb7a4a70b35433ffbb3da09c91abf14f489ec8",
+  "text": "Costs that don't change with how full the hotel is, like core staff, insurance, and upkeep."
+ },
+ {
+  "hash": "52c249ebbc8c2bc6392638d163d936061d4c7f43",
+  "text": "Costs for each occupied room-night, like cleaning, laundry, and amenities."
+ },
+ {
+  "hash": "362c22750d1ea30201760dd16a3a0959dbc3f2d3",
+  "text": "How many nights the rooms must be filled just to cover fixed costs. The lower it is, the safer the hotel."
+ },
+ {
+  "hash": "4ae8cf3d112bd0f808f26c283f6d423a83618bbe",
+  "text": "One property with more than one kind of room or offering, here luxury plus standard rooms."
+ },
+ {
+  "hash": "8b061e6c6c21de411e34459a85f6e43a852b4ae1",
+  "text": "Whether a move strengthens or blurs what the brand stands for. A luxury-only chain adding standard rooms changes its image."
+ },
+ {
+  "hash": "5897d588b37d475d6785a1e68e72448746fd0b14",
+  "text": "The case prompt"
+ },
+ {
+  "hash": "5eeee7f7b344f39788fbdcf027bba29da0681e26",
+  "text": "Our client is a global luxury hotel chain. It's evaluating whether to enter the luxury accommodation market in a new city."
+ },
+ {
+  "hash": "bef55483013439ac96113b30f3a720b3e03d2daa",
+  "text": "It's considering two options: a standalone luxury resort, or a mixed-use resort that offers both luxury and standard rooms. The CEO has hired you to recommend which option is more feasible. What should the CEO prioritize when evaluating this market, and which option would you pick?"
+ },
+ {
+  "hash": "fd6b9a72cdeb88f2284e9a39081ac2b134e6bf03",
+  "text": "Restate the question in one sentence before you do anything else."
+ },
+ {
+  "hash": "c37e388578edde7f4370b9d10a751fe18c126b5b",
+  "text": "\"So our client, a global luxury hotel chain, wants to enter a new city, and needs to choose between a luxury-only resort and a mixed resort with luxury and standard rooms. I'll evaluate both and recommend the better fit. Is that right?\""
+ },
+ {
+  "hash": "cf21baa168e9c5a9ace61a7c787a18ea2becda26",
+  "text": "Interviewer: \"Yes, that's correct.\" In the video, the candidate restates the case almost exactly like this before asking questions."
+ },
+ {
+  "hash": "8e6d2ad9575dc9f3cfc886c2260b8fefc6fde36e",
+  "text": "Clarifying questions"
+ },
+ {
+  "hash": "cf40a0f2f5aaee7152d7c02c95d4ee459e4dc68e",
+  "text": "Ask two or three clarifying questions. Pick ones whose answers would change your approach."
+ },
+ {
+  "hash": "34629c1b34bbe79c4970ec671dcc492b0b942c63",
+  "text": "What kind of city is it? A rapidly developing city."
+ },
+ {
+  "hash": "d21a59fe565248834f9e8aa760e872042add73cf",
+  "text": "Is there a timeline to consider? No timeline."
+ },
+ {
+  "hash": "322b25a370160afe2c63064b0a5652219da604ec",
+  "text": "Besides profit, are there other goals? Profit is the main concern, but you're welcome to consider other factors."
+ },
+ {
+  "hash": "d3f651efb24235b2dff01a9a82593b1727307135",
+  "text": "What's the competition, for luxury and for standard hotels? The luxury market in the city is quite limited. There's no information on standard hotels."
+ },
+ {
+  "hash": "1095705aceb3a1d752dca3e05366a4a9b3a7fc30",
+  "text": "Every answer here is from the video. Two matter most: profit is the main test, and luxury competition is thin. Note what you didn't learn, too: nothing about standard hotels, which makes the mixed option's standard rooms a bigger unknown."
+ },
+ {
+  "hash": "5c1d378cfc64d50c7f119b2c2db5a1f3712a570a",
+  "text": "Build the framework"
+ },
+ {
+  "hash": "8228334996184213d48bd447e2bd42934a6f9f7d",
+  "text": "How would you structure your approach?"
+ },
+ {
+  "hash": "841a96c0b7cc99b45ce7f403ec49478115ec1ec6",
+  "text": "Take 60 seconds to sketch your buckets, then walk the interviewer through them out loud."
+ },
+ {
+  "hash": "4651ffc6fbeff6fc12e6b6a263639e9adb9ffe01",
+  "text": "Locals: how many use luxury hotels?"
+ },
+ {
+  "hash": "c6094b33eacac46546fe4f343030cd2b077cea24",
+  "text": "Visitors: tourists and business travelers"
+ },
+ {
+  "hash": "459e2158fb4add235e839b8dab6c10458db4f2ac",
+  "text": "Competition for each"
+ },
+ {
+  "hash": "58e67c02a8636c8780037f0bb79137581a076d12",
+  "text": "Nightly rate by room type"
+ },
+ {
+  "hash": "3a47213e3dad7990f8c3fd655f574ebcbc7b5a6c",
+  "text": "Nights occupied, by season"
+ },
+ {
+  "hash": "a5fcaf2e7ff4d0240162c00e01c92b15e4d8a7fe",
+  "text": "Extras: dining, spa, events, shops"
+ },
+ {
+  "hash": "54a99031e2093e39dec3e8c2fe28da8f14fdf764",
+  "text": "One-time: land, building, permits"
+ },
+ {
+  "hash": "5866ec4fac47671029194b4a1aad8781408e90be",
+  "text": "Fixed: staff, upkeep, insurance"
+ },
+ {
+  "hash": "18618a57e926a5ba5bd3434dc0e7d1176fcba654",
+  "text": "Variable: per occupied room"
+ },
+ {
+  "hash": "941d4e57f374b90e3576ebd21a1574a661b9cf0e",
+  "text": "Luxury-only image vs. wider reach"
+ },
+ {
+  "hash": "d6ce7e6fb05fe6c8501a2cf61a475fa22cfc9471",
+  "text": "Economic and tourism swings"
+ },
+ {
+  "hash": "d1508ef3eb6d7ad164a4b4a70b489b32b53f0ef9",
+  "text": "Rules, zoning, taxes, currency"
+ },
+ {
+  "hash": "891f8b94c7459a349db8c3dbeedf17e43b709565",
+  "text": "Say it like this"
+ },
+ {
+  "hash": "c8a44506aa449d60d369932927c732ae848fc75e",
+  "text": "\"I'd look at four things for each option. First, market demand: how many locals and visitors use luxury hotels here, and who we'd compete with. Second, revenue: nightly rates, how many nights rooms are filled, and extras like dining and events. Third, costs: the one-time cost to build, plus yearly fixed and per-night costs. Fourth, brand fit and risks: whether a mixed resort blurs our luxury brand, and the economic and regulatory risks of a new city. I'd start with demand, because it tells us whether either option can fill its rooms.\""
+ },
+ {
+  "hash": "2e4580536b0f2359910adb76e50ba348f206ca0a",
+  "text": "Why it works"
+ },
+ {
+  "hash": "172f6015df2ed58c5a94790e8af0a8feef0e48a4",
+  "text": "It compares the two options on the same yardsticks."
+ },
+ {
+  "hash": "0c4574e1bf867b4f2cdfe299db565c0c1ffba161",
+  "text": "It splits demand into locals and visitors, which turns out to matter: 90 percent of luxury guests are visitors."
+ },
+ {
+  "hash": "dea3de51b5ccf84cde3f8b34b99e487156353f2e",
+  "text": "In the video, the candidate used five buckets, with brand fit and risks separate. Either works, as long as it's clear."
+ },
+ {
+  "hash": "97ea60dd2f9614739d739d00d11cd59e1569d5f7",
+  "text": "Size the demand"
+ },
+ {
+  "hash": "81beb9ac93a9d5b8bf5f2784edbc1b29fec6d2c4",
+  "text": "How would you estimate the yearly demand for luxury hotel stays, in number of guests?"
+ },
+ {
+  "hash": "800396843639128bdca5e845303a866266af8074",
+  "text": "Ask for the data you need, split it into locals and visitors, and state your assumption about how often people stay."
+ },
+ {
+  "hash": "937afa52899b9daba1c6a79a4d344ef7f5112207",
+  "text": "All from the video. The one-stay-a-year assumption is the candidate's, and the interviewer accepts it."
+ },
+ {
+  "hash": "7967a41f4ed8e9f926a707125266d2cd08f8aa77",
+  "text": "1 \u00b7 Locals 10M \u00d7 1% 100K"
+ },
+ {
+  "hash": "68d94251d8f679bf0d41b258489e57ed3321232a",
+  "text": "2 \u00b7 Visitors 18M \u00d7 5% 900K"
+ },
+ {
+  "hash": "7e56a80bf3144b273b87e36df179bdba7049503e",
+  "text": "3 \u00b7 Total luxury guests 100K + 900K 1M"
+ },
+ {
+  "hash": "5dba76721078b2514c66db0781a58fe867448eb8",
+  "text": "4 \u00b7 So what 900K \u00f7 1M: build for visitors 90%"
+ },
+ {
+  "hash": "28ec2ce89b411461e6408261c0c31cb7ecce4954",
+  "text": "5 \u00b7 A 10% share 1M \u00d7 10% 100K"
+ },
+ {
+  "hash": "8c78ee88ef61505ed01afa4f2839b4a6ebd50623",
+  "text": "Nine in ten luxury guests are visitors, so tourism and business travel drive this market."
+ },
+ {
+  "hash": "feb7a135af7d21d64bcbe240dfe3a8221115e24b",
+  "text": "What's the most useful insight from the demand math?"
+ },
+ {
+  "hash": "d284bf56a45066566ef7cfaf8f6f1f4702b7df3e",
+  "text": "The number matters less than its mix. Because 900 thousand of the 1 million are visitors, the resort should be designed and located for travelers, and a drop in tourism is its biggest demand risk. The drills check whether 1 million guests is enough to fill the rooms."
+ },
+ {
+  "hash": "9f5f4d0278d260839850d3b1feb502ba1e207844",
+  "text": "Compare the profit of each option"
+ },
+ {
+  "hash": "28531eeea95bd9bc4c81b05a455d1d4880bbd4c4",
+  "text": "What are the projected revenue and cost structures for the two options? Which one makes more money?"
+ },
+ {
+  "hash": "ac61d091fd24489f7b5b71c7177b42a856529cc2",
+  "text": "All from the video. Extra services like dining and spa bring in the same for both options, so they're left out. Building costs aren't needed for this question."
+ },
+ {
+  "hash": "e07dcc89a9730e1516d28c15a917145e5df82dca",
+  "text": "Work out the profit per occupied room-night first, then scale it up by rooms and nights, then subtract fixed costs. Start with the simpler option."
+ },
+ {
+  "hash": "14c08309c5c7726eb5f8c658094bb69830247f70",
+  "text": "Multiply rooms by nights first. 300 rooms times 250 nights is 75 thousand room-nights a year. Then multiply by the profit per room-night. That keeps the big numbers to one step."
+ },
+ {
+  "hash": "33c680b1c784cd7bfc80afbef01e323c3c2f0c48",
+  "text": "1 \u00b7 Luxury-only: per room-night $400 \u2212 $100 $300"
+ },
+ {
+  "hash": "54ba18636b0c13c52019a4698d77dd290f1e18d3",
+  "text": "2 \u00b7 Luxury-only: yearly profit 75,000 room-nights \u00d7 $300 = $22.5M, \u2212 $10M fixed $12.5M"
+ },
+ {
+  "hash": "b769597870f75f501404dfacd994fd2dcae389e6",
+  "text": "3 \u00b7 Mixed: luxury rooms ($300 \u2212 $80) \u00d7 100 rooms \u00d7 250 nights $5.5M"
+ },
+ {
+  "hash": "9b9d1b4136cd1e1d5566685ecfc875a04f3bd48e",
+  "text": "4 \u00b7 Mixed: standard rooms ($150 \u2212 $50) \u00d7 200 rooms \u00d7 250 nights $5.0M"
+ },
+ {
+  "hash": "46abab2dccc672cd0a9f3dda3dae410268f6c940",
+  "text": "5 \u00b7 Mixed: yearly profit $5.5M + $5.0M = $10.5M, \u2212 $8M fixed $2.5M"
+ },
+ {
+  "hash": "07a530e20282e09facec0b851a1959f380229962",
+  "text": "6 \u00b7 Compare $12.5M vs. $2.5M: $10M more a year 5\u00d7"
+ },
+ {
+  "hash": "a10522f9d975fc12be5627c4ff5c0a525af10da1",
+  "text": "Full bar = room revenue minus variable costs. Luxury-only brings in $22.5M and keeps $12.5M. Mixed brings in $10.5M and keeps $2.5M."
+ },
+ {
+  "hash": "1ce52420d866db983367172cda632b36c4fcc727",
+  "text": "Quick check: why can we leave out extra services like dining and the spa?"
+ },
+ {
+  "hash": "ca37109e119643e6c123e1d8a354c9e7eadd767e",
+  "text": "When you're comparing two options, anything that's the same for both cancels out. It would matter if you were asked for total profit, but not for which option is better. Everyday version: if two phone plans include the same free streaming service, you can ignore it when comparing them."
+ },
+ {
+  "hash": "53eba760e5a4ef6949624bbe9d10fc130a913e4d",
+  "text": "Profit calculator"
+ },
+ {
+  "hash": "a2d280c212f9a398c9a2ac3c89661e8a3d29f09a",
+  "text": "Starts with the video's numbers. Try lowering the luxury-only nights to see when the mixed resort wins."
+ },
+ {
+  "hash": "979336a349359fbc0f68d18b35568cc1bd98ae7e",
+  "text": "Which option is riskier?"
+ },
+ {
+  "hash": "7712ac61520c47105d08a9d2cb5b526c8e1c1aea",
+  "text": "This step is added for practice. In the video, the candidate says the luxury-only option is a little riskier because its fixed costs are higher. Test that claim with numbers."
+ },
+ {
+  "hash": "cd7ff898d3e8ed4e1c9e2fc7f35ef1fb27fce0f1",
+  "text": "The luxury-only option has higher fixed costs. Does that make it the riskier choice?"
+ },
+ {
+  "hash": "ec703fbc438797713d4a8b4525d5067970a19f2c",
+  "text": "Work out how many nights each option needs its rooms filled just to cover fixed costs. Lower is safer."
+ },
+ {
+  "hash": "fe8f5baac93b425d4bca3e69a6246aadf61ef870",
+  "text": "First find what one night brings in across the whole hotel, after variable costs. Then divide fixed costs by that. The answer is the number of nights a year the rooms must be filled to break even."
+ },
+ {
+  "hash": "de115611d10dc06265883f8bce3d7d51d7503010",
+  "text": "1 \u00b7 Luxury-only: one full night 300 rooms \u00d7 $300 $90K"
+ },
+ {
+  "hash": "dde99eb4c4d3a15015b2004770919b03cf3c8bc0",
+  "text": "2 \u00b7 Luxury-only: break-even $10M \u00f7 $90K. About 30% of the year \u2248111 nights"
+ },
+ {
+  "hash": "32d887e7fe0cf624f943a20d8930a3ad19170cd7",
+  "text": "3 \u00b7 Mixed: one full night 100 \u00d7 $220 + 200 \u00d7 $100 $42K"
+ },
+ {
+  "hash": "99c312af7c118568d50cc6162e434415738dfb61",
+  "text": "4 \u00b7 Mixed: break-even $8M \u00f7 $42K. About 52% of the year \u2248190 nights"
+ },
+ {
+  "hash": "ee8dc42fa0704cf48b2fd2d83afb4b1d2b3d575b",
+  "text": "5 \u00b7 How far can luxury-only fall? To match $2.5M: ($10M + $2.5M) \u00f7 $90K \u2248139 nights"
+ },
+ {
+  "hash": "6b345d08c9c958ec968a6790c0d0b2305fded2f4",
+  "text": "6 \u00b7 So what Luxury-only is safer on occupancy. Its real risk is relying only on visitor demand \u2713"
+ },
+ {
+  "hash": "c981f8d893785e79c7a7b6b14feeb74e2ea28719",
+  "text": "The luxury-only resort covers its fixed costs at well under half the planned nights. The mixed resort needs about three-quarters of them."
+ },
+ {
+  "hash": "9b9af951883b7d4522d797109e9fbf19de226ca1",
+  "text": "Could the mixed resort ever beat 12.5 million, even if it were full every night of the year?"
+ },
+ {
+  "hash": "52377d2f85c7dad352a1d40ad8a357781f1c657f",
+  "text": "42 thousand dollars a night times 365 nights is about 15.3 million. Minus 8 million in fixed costs leaves about 7.3 million, still well short of 12.5 million. That's a powerful line for your recommendation: the mixed option can't win on profit even in the best case."
+ },
+ {
+  "hash": "55e180215117e128004c143ecbfd011b116759c0",
+  "text": "Score the risks"
+ },
+ {
+  "hash": "cf761866b2305d8db27f06db175f6000ea08b0c7",
+  "text": "The CEO leans toward the luxury-only resort. Here are six risks to that plan. Score each for likelihood and impact. Which three should the team manage first?"
+ },
+ {
+  "hash": "8f9226d2308946e5f1058ed7f9e3cfcab6bb35ce",
+  "text": "Your dots appear here as you score each risk."
+ },
+ {
+  "hash": "ac0c8b91dbe4f5417af13f174c932cf546a9de50",
+  "text": "Pick L (likelihood) and I (impact): 1 is low, 5 is high."
+ },
+ {
+  "hash": "3cfced29667347a2e79b97d5dfcf7a7ae4ac4808",
+  "text": "Score all six to see your top three."
+ },
+ {
+  "hash": "c5bfa1c788e4371c61f3943904e321cea7c5dac0",
+  "text": "Score = likelihood \u00d7 impact. The risks come from the video's framework; the scores are yours to set."
+ },
+ {
+  "hash": "2bf0e2fada279bb153feef6fd947920fc8baf593",
+  "text": "Score each risk out loud with a one-line reason, then name your top three and how you'd manage each."
+ },
+ {
+  "hash": "891f8b94c7459a349db8c3dbeedf17e43b709565",
+  "text": "Say it like this"
+ },
+ {
+  "hash": "edac6caa21efd98293884676d655034bd86e4b75",
+  "text": "\"I'd manage three risks first. A rival luxury brand entering, because competition is thin today and a fast-growing city will attract others, so we should move quickly and lock in the best site. A drop in tourism, because 90 percent of our guests are visitors, so we should target business travelers and events, not just leisure. And permits and zoning, because delays push back every dollar of profit, so we should get local partners and approvals lined up early.\""
+ },
+ {
+  "hash": "e384f9f7d0838bb158b1bf92f6497fe11cdb2928",
+  "text": "The recommendation"
+ },
+ {
+  "hash": "d10e42f3b89078a4aeccd630512696e0f4febf4b",
+  "text": "Given the financials, customer segments, and risks, which model would you recommend, and why?"
+ },
+ {
+  "hash": "1f79adeaeea78bfefadaec97e506ab2cee4b57bd",
+  "text": "Lead with the answer. Then the reasons, the main risk, and next steps."
+ },
+ {
+  "hash": "d62af2fe0909d8d0290012d2addc0eeb32cfab02",
+  "text": "\"I'd recommend the luxury-only resort. It earns about 12.5 million a year against 2.5 million for the mixed option, five times as much. It fits our luxury brand, and with little luxury competition in the city, even a 10 percent share means about 100 thousand guests a year.\""
+ },
+ {
+  "hash": "7573b4637b9d26294b7ac83f05d29cd99ef16d14",
+  "text": "\"Build the luxury-only resort. It earns about 12.5 million a year, five times the mixed option, and it's also the safer bet on occupancy: it covers its fixed costs at about 111 nights a year, against about 190 for the mixed resort. Even full every night, the mixed option would make only about 7 million.\""
+ },
+ {
+  "hash": "d4d5b19b1a9a6d538a255d150244acb97fd8c66c",
+  "text": "\"It also fits our brand, and luxury competition in the city is thin. The main risk is that 90 percent of luxury guests are visitors, so a drop in tourism hits us hard. To manage that, design for business travelers and events too, and move fast to lock in the best site before a rival brand arrives. Next steps: confirm tourism forecasts, secure a site and permits, and check what other luxury hotels are planned.\""
+ },
+ {
+  "hash": "8e8cd848ed2fe470718ecc07ff03112890ed58d8",
+  "text": "The good answer is right. The better answer survives the interviewer's follow-up: \"Isn't luxury-only riskier?\" It already has the numbers to say no, and it names the risk that really matters."
+ },
+ {
+  "hash": "9a1c7fa117e025586b2878b0777d561dc7634a22",
+  "text": "Bonus drills: capacity and hotel math"
+ },
+ {
+  "hash": "a9dd4317063e9a470d1fd9a3e2e7dfe052ce6f8b",
+  "text": "Short reps for the checks that make an answer feel real."
+ },
+ {
+  "hash": "6974db3f0c8fc883ad6bb35ada8a250ff655ad45",
+  "text": "Can the market fill the rooms?"
+ },
+ {
+  "hash": "4ec852dcc1bd9eebe26205687852c504efed4a64",
+  "text": "You said a 10 percent share is 100 thousand guests. Is that enough to fill 300 rooms for 250 nights?"
+ },
+ {
+  "hash": "1c0a5eeec608ee6d38304bc4307c1cb91f9ee84e",
+  "text": "Compare the room-nights the hotel needs to sell with the room-nights its guests would use. You'll need two assumptions: how many nights a guest stays, and how many guests share a room."
+ },
+ {
+  "hash": "d0f2105bac455f3a44775f04df19504516107521",
+  "text": "Room-nights to fill 300 rooms \u00d7 250 nights 75,000"
+ },
+ {
+  "hash": "c51a19813c34db6e67a513f236b72a7568bcfd87",
+  "text": "Assumptions 2 nights a stay, 1.5 guests a room \u2713"
+ },
+ {
+  "hash": "319c3f6c10e4ae62a00f8109d93ecf84ee1b4bbe",
+  "text": "Room-nights used 100,000 \u00d7 2 \u00f7 1.5 \u2248133,000"
+ },
+ {
+  "hash": "1bfc99b5a8be162e7e64288025b4cb9123bfed8a",
+  "text": "Compare 133,000 vs. 75,000 1.8\u00d7"
+ },
+ {
+  "hash": "ac242251b8e302dcea43ef0829b02307062eb795",
+  "text": "Share needed to fill 75,000 \u00f7 1,333,000 \u22486%"
+ },
+ {
+  "hash": "b282396fd3c668fbb59ec9cbbf7eb192f0ec1160",
+  "text": "So what The plan looks achievable \u2713"
+ },
+ {
+  "hash": "8cc38bd956ce25e41fe18f96c1432029e1d43d6d",
+  "text": "Stay length and guests per room are interview-style assumptions, not from the video."
+ },
+ {
+  "hash": "2db3fcbc1c2e218084dbd5e266d30fd265b44ea3",
+  "text": "Quick hotel math"
+ },
+ {
+  "hash": "852be9d489100e9fc57984a65544dbefecfa9c34",
+  "text": "1. Rooms are filled 250 nights a year. What's the occupancy rate?"
+ },
+ {
+  "hash": "eb02a12557527ff4b10ecdea57c8f463627a3a52",
+  "text": "\"About 68 percent. 250 divided by 365. The video rounds it to about 70.\""
+ },
+ {
+  "hash": "7cd092c8723b7548f4920ab929e395c0dd2c5497",
+  "text": "2. What's RevPAR for the luxury-only resort?"
+ },
+ {
+  "hash": "adc046afc68028e66e163d65ba571db313860576",
+  "text": "\"About 274 dollars. The 400 dollar rate times 68 percent occupancy.\""
+ },
+ {
+  "hash": "4b696c20bfcb629121b5b87c7fa021ab238cc66c",
+  "text": "3. If the luxury-only rate drops to 350 dollars, what's the yearly profit?"
+ },
+ {
+  "hash": "0686a58e613cacc8b65fac40e790f1590552054e",
+  "text": "\"About 8.75 million. 350 minus 100 is 250 dollars a night, times 75 thousand room-nights is 18.75 million, minus 10 million. Still three and a half times the mixed option.\""
+ },
+ {
+  "hash": "4aecbc1311c2c70cddd1c20f9df35f573d5918fa",
+  "text": "4. Each extra night the luxury-only resort is filled adds how much profit?"
+ },
+ {
+  "hash": "4eab3f1b62c9e1c0177ae4134d04f2c4856bfe08",
+  "text": "\"90 thousand dollars. 300 rooms times 300 dollars. For the mixed resort, it's 42 thousand.\""
+ },
+ {
+  "hash": "0eda8d77e34cad93e11bc25b2cb5cd229ba79178",
+  "text": "Practice test"
+ },
+ {
+  "hash": "de4e9a186bcccc5891417fd3fa9e69d88f9892a6",
+  "text": "Twelve multiple-choice questions on the hotel case. Pick an answer to see the explanation."
+ }
+]
